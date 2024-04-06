@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# about
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+The items on this site have been shaped through the combined efforts of myself and an ever-growing community of trees. It is truly a collaborative process as each tree emerges from the ground, reaching toward the sun in her own way. First a trunk, often made of straight-grained fibers taking the shortest path toward their life source. Then come the branches, bending and reaching through curved fibers to forge their own way to the light. 
+
+Then it is my turn. Following the mantra of Jogge Sundqvist ("Form follows Fibers"), I follow the fibers toward the final shape of whatever item is to be found.
