@@ -1,5 +1,6 @@
   <div class="image-gallery">
-  {% for file in site.static_files %}
+  {% assign images = site.static_files | sort: "basename" | reverse %}
+  {% for file in images %}
     {% if file.path contains include.folder %}
       {% if file.extname == '.jpg' or 
         file.extname == '.jpeg' or 
@@ -11,7 +12,6 @@
   
         <a href="{{ file.path }}" title="{{ filename }}">
           <img src="{{ file.path }}" alt="{{ filename }}" />
-          <span></span>
         </a>
       {% endif %}
     {% endif %}

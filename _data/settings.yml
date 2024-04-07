@@ -10,9 +10,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Spoons',   url: 'spoons'}
+- {name: 'Spoons and Utensils',   url: 'spoons'}
 - {name: 'Shrink Pots',   url: 'shrink-pots'}
-- {name: 'Miscellaneous', url: 'misc'}
 
 #-------------------------------
 # Contact Section
