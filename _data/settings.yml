@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-# - {name: 'portfolio', url: 'portfolio'}
+- {name: 'home', url: ''}
 - {name: 'about',    url: 'about'}
 - {name: 'contact',  url: 'contact'}
 
