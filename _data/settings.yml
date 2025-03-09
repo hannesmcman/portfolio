@@ -11,6 +11,7 @@ menu:
 
 projects:
 - {name: 'Spoons and Utensils',   url: 'spoons'}
+- {name: 'Furniture', url: 'furniture'}
 - {name: 'Shrink Pots',   url: 'shrink-pots'}
 
 #-------------------------------
