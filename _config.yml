@@ -10,3 +10,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "johanneslöjd"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Johannes Carlsen"
+
+domain: johanneslojd.art       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://johanneslojd.art  # the base hostname and protocol for your site, e.g. http://example.com
