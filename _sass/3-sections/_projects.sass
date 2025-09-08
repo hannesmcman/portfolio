@@ -16,7 +16,7 @@
       repeat: no-repeat
       size: cover
     .project-overlay
-      +position(absolute, 100% 0px null 0px)
+      +position(absolute, 0px 0px null 0px)
       height: 100%
       background: fade-out(#333, 0.5)
       text-align: center
@@ -33,7 +33,8 @@
           size: 24px
           weight: 300
     &:hover .project-overlay
-      +position(absolute, 0px 0px null 0px)
+      strong
+        font-size: 28px
 
 @media (max-width: 768px)
   .project-container

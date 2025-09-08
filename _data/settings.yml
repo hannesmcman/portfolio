@@ -13,6 +13,7 @@ projects:
 - {name: 'Spoons and Utensils',   url: 'spoons'}
 - {name: 'Furniture', url: 'furniture'}
 - {name: 'Shrink Pots',   url: 'shrink-pots'}
+- {name: 'Timber Framing', url: 'timber_framing'}
 
 #-------------------------------
 # Contact Section
